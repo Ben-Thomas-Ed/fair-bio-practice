@@ -1,3 +1,8 @@
+Before we start this lesson on good record keeping, it might be a good idea to make a cup of tea. Here’s a reproducible protocol for making tea you can follow: 
+
+(insert picture of awful protocol)
+
+
 ---
 title: "Records keeping"
 teaching: 0
